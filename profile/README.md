@@ -2,7 +2,7 @@
   <img 
     src="https://prodassets.nego.one/brlv_git.jpg" 
     alt="Brolve Hosting Banner" 
-    style="width: 100%; max-width: 800px; height: 200px; object-fit: cover; border-radius: 16px;padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;border-radius: 1rem;border: 2px solid  gray;"
+    style="width: 100%; max-width: 800px; height: 100px; object-fit: cover; border-radius: 16px;padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;border-radius: 1rem;border: 2px solid  gray;"
   >
 </p>
 <br/>
@@ -26,6 +26,6 @@ Blazing-fast and secure hosting powered by German-based infrastructure. We deliv
   <img 
     src="https://prodassets.nego.one/brlv_git.jpg" 
     alt="Brolve Logo" 
-  style="width: 100%; max-width: 800px; height: 200px; object-fit: cover; border-radius: 16px;padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;border-radius: 1rem;border: 2px solid  gray;"
+  style="width: 100%; max-width: 800px; height: 100px; object-fit: cover; border-radius: 16px;padding-top: 1.25rem;padding-bottom: 1.25rem;padding-left: 1.25rem;padding-right: 1.25rem;border-radius: 1rem;border: 2px solid  gray;"
   >
 </p>
