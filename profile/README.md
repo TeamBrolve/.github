@@ -2,18 +2,15 @@
   <img 
     src="https://prodassets.nego.one/brlv_git.jpg" 
     alt="Brolve Hosting Banner" 
-    style="width: 100%; max-width: 1000px; border-radius: 16px;"
+    style="width: 100%; max-width: 800px; height: 200px; object-fit: cover; border-radius: 16px;"
   >
 </p>
-
 <br/>
 
 **Brolve.com** — Next-Gen Hosting Provider  
 Blazing-fast and secure hosting powered by German-based infrastructure. We deliver enterprise-grade performance and unmatched reliability to help you scale with confidence.
-
   
 ### 🚀 Our Advantages
-
 - ⚡ **99.99% Uptime** — Enterprise-grade reliability, 24/7 availability  
 - 📍 **Germany-Based Servers** — Low latency across Europe with Tier 3+ data centers  
 - 🎯 **Ultra-Fast Performance** — Optimized NVMe storage and premium bandwidth  
@@ -29,6 +26,6 @@ Blazing-fast and secure hosting powered by German-based infrastructure. We deliv
   <img 
     src="https://prodassets.nego.one/brlv_git.jpg" 
     alt="Brolve Logo" 
-    style="height: 100px; border-radius: 50%;"
+    style="height: 60px; width: 60px; object-fit: cover; border-radius: 50%;"
   >
 </p>
