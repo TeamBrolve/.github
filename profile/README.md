@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://prodassets.nego.one/brlv_git.jpg" alt="Brolve Hosting Banner" style="border-radius: 50%;">
+  <img 
+    src="https://prodassets.nego.one/brlv_git.jpg" 
+    alt="Brolve Hosting Banner" 
+    style="width: 100%; max-width: 1000px; border-radius: 16px;"
+  >
 </p>
 
 <br/>
@@ -20,6 +24,11 @@ Blazing-fast and secure hosting powered by German-based infrastructure. We deliv
 - 🚀 **Instant Deployment** — Services go live within seconds  
 
 <br/>
+
 <p align="center">
-  <img src="https://prodassets.nego.one/brlv_git.jpg" alt="Brolve Logo" style="border-radius: 50%;">
+  <img 
+    src="https://prodassets.nego.one/brlv_git.jpg" 
+    alt="Brolve Logo" 
+    style="height: 100px; border-radius: 50%;"
+  >
 </p>
